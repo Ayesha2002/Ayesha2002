@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Ayesha Khan</h1>
+<h1 align="center">Hi 🤝🏼, I'm Ayesha Khan</h1>
 <h3 align="center">A passionate backend as well as web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayesha2002&label=Profile%20views&color=0e75b6&style=flat" alt="ayesha2002" /> </p>
