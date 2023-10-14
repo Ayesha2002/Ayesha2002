@@ -65,15 +65,6 @@
 </div>
 
 ###
- <p align="left"></p>
-
-###
-
-<img src="https://raw.githubusercontent.com/Ayesha2002/Ayesha2002/output/snake.svg" alt="Snake animation" />
-
-
-###
-<p align="left"></p>
 
 ###
 
