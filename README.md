@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayesha Khan</h1>
-<h3 align="center">An aspiring Full Stack Developer as well as a Software Developer having a keens interest in DevOps. Looking forward for opportunities and collaboration.</h3>
+<h3 align="center">An aspiring Full Stack Developer as well as a Software Developer having a keen interest in DevOps. Looking forward for opportunities and collaboration.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayesha2002&label=Profile%20views&color=0e75b6&style=flat" alt="ayesha2002" /> </p>
 
